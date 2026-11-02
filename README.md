@@ -20,3 +20,6 @@ Welcome to my little corner of GitHub.
 Learning new things: ██████████░░ 83%
 Motivation level:   ███████░░░░░ 65%
 Sleep schedule:     ░░░░░░░░░░░░ 0%
+```
+
+I don't really use this account :D There is only private repos here mostly
